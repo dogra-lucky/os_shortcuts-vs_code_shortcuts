@@ -1,0 +1,11 @@
+// let a = "hello";
+// let b = a;
+// console.log(a === b);
+// a = "well";
+// console.log(b);
+// console.log(a);
+// let a = [1, 2, 3];
+// let b = a;
+// a.push(5);
+// console.log("b", b);
+// console.log(b === a);
