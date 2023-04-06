@@ -5,3 +5,4 @@
 // to close current page/tab     Ctrl + w
 // move to next tab/page       ctrl + tab
 // fold/unfold blocks              ctrl + shift + [/]
+// to select current word            ctrl + d
