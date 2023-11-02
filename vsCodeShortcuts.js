@@ -6,3 +6,6 @@
 // move to next tab/page       ctrl + tab
 // fold/unfold blocks              ctrl + shift + [/]
 // to select current word            ctrl + d
+
+
+//types of joins in sql : short form SIFLRC:- SELF JOIN, INNER JOIN, FULL JOIN , LEFT JOIN , RIGHT JOIN , CROSS JOIN 
