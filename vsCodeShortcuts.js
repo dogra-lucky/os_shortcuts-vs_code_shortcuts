@@ -9,3 +9,7 @@
 
 
 //types of joins in sql : short form SIFLRC:- SELF JOIN, INNER JOIN, FULL JOIN , LEFT JOIN , RIGHT JOIN , CROSS JOIN 
+// INNER JOIN : get data common in both tables.
+//CROSS JOIN :join all rows of one table with all rows of another table.
+//SELF JOIN: where a table is joined with itself . columns are fetched with different names as aliases to differenciate.
+//FULL JOIN:return data from both tables . where rows matched it returns data else return null for that row record.
